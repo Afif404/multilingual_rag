@@ -184,4 +184,3 @@ Accepts a Bangla or English query in JSON format and returns a response generate
   - Better OCR for scanned text
   - Larger chunk context
   - More advanced multilingual models
-
